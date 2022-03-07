@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots:
-<img align="left" src="screenshots/list_page.png"></img>
-<img align="left" src="screenshots/add_task_page.png"></img>
-<img align="left" src="screenshots/after_add_task.png"></img>
-<img align="left" src="screenshots/after_deleted_task"></img>
+<img align="left" src="Screenshot/list_page.png"></img>
+<img align="left" src="Screenshot/add_task_page.png"></img>
+<img align="left" src="Screenshot/after_add_task.png"></img>
+<img align="left" src="Screenshot/after_deleted_task"></img>
