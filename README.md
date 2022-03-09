@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots:
 
-<img align="left" src="Screenshots/list_page.png"></img>
-<img align="left" src="Screenshots/add_task_page.png"></img>
-<img align="left" src="Screenshots/after_add_task.png"></img>
-<img align="left" src="Screenshots/after_deleted_task"></img>
+<img align="left" src="Screenshot/list_page.png"></img>
+<img align="left" src="Screenshot/add_task_page.png"></img>
+<img align="left" src="Screenshot/after_add_task.png"></img>
+<img align="left" src="Screenshot/after_deleted_task"></img>
 
