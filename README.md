@@ -1,6 +1,6 @@
 # todoey
 
-In this project,User can calculate their BMI.
+In this project,User can their to do list.
 
 # Contents:
 
