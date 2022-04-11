@@ -1,6 +1,6 @@
 # todoey
 
-In this project,User can their to do list.
+In this project,User can make their to do list.
 
 # Contents:
 
