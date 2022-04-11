@@ -1,19 +1,28 @@
 # todoey
 
-A new Flutter project.
+In this project,User can calculate their BMI.
 
-## Getting Started
+# Contents:
 
-This project is a starting point for a Flutter application.
+* ChangeNotifierProvider
+* showModalBottomSheet
+* and many more...
 
-A few resources to get you started if this is your first Flutter project:
+# How to Install and Run the Project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can run this project:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Direct on Android Studio Emulator by this [link](https://github.com/RashadZA/todoey)
+2. Physical Device. [Apk_link](https://drive.google.com/file/d/1p1s_Rz7LiKmYutzLIB--Be6urklJeDqI/view?usp=sharing)
+
+# How to Use the Project:
+
+* Run this project on emulator or device.
+* You will see a Task page.
+* When you click  add button(FloatingActionButton) bottom sheet will come up.
+* Then you type your task in TextField.
+* After clicking add button you will see your task added in the task page.
+
 
 ## Screenshots:
 
